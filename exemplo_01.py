@@ -58,3 +58,5 @@ print(total)
 name = input('Qual é seu nome? ')
 sobrenome = input("Digite seu sobrenome: ")
 print(f'My name is:{name} {sobrenome}')
+
+print('Funciono a subida do arquivo ao github')
